@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71fc0bf2-cf6e-4e35-b7e7-5712fef97f4d" name="更改" comment="项目新增测试">
-      <change afterPath="$PROJECT_DIR$/../test-002/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test-002/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test-002/.idea/test-002.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +117,7 @@
       <option name="presentableId" value="Default" />
       <updated>1743234796696</updated>
       <workItem from="1743234797840" duration="6320000" />
-      <workItem from="1743261509781" duration="5553000" />
+      <workItem from="1743261509781" duration="6239000" />
     </task>
     <task id="LOCAL-00001" summary="项目测试">
       <option name="closed" value="true" />
@@ -144,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743300330421</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="项目新增测试">
+      <option name="closed" value="true" />
+      <created>1743302384162</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743302384162</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
